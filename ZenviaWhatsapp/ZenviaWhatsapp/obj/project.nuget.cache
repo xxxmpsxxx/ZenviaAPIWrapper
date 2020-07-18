@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aps/+qsG9TB9aSgh+V9crljB/HpM4d9sEHxl1nMH5OgrRulv2I8OCF8KTav9V1jCGjW/y0Y2ACVYKFtOFCZxMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcus\\Source\\Repos\\ZenviaAPIWrapper\\ZenviaWhatsapp\\ZenviaWhatsapp\\ZenviaWhatsapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
